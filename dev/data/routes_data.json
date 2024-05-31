@@ -1,7 +1,7 @@
 [
 	{
 		"id": "75fcc1aa-da42-4c2b-90b7-6d5b20a96e87",
-		"thumbnail": "./img/routes/diamant_route.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/productbuilder/hilversum-timemachine-data/main/dev/img/routes/diamant_route.jpg",
 		"title": "Diamant Route",
 		"description": "Dit is route 1",
 		"origin": [5.1769, 52.2243],
@@ -17,7 +17,7 @@
 	},
 	{
 		"id": "394531b4-ff85-43ef-b303-032dce00fe40",
-		"thumbnail": "./img/routes/oude_haven_route.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/productbuilder/hilversum-timemachine-data/main/dev/img/routes/oude_haven_route.jpg",
 		"title": "Oude Haven Route",
 		"description": "Dit is route 1",
 		"origin": [5.1769, 52.2243],
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": "c85d0826-a3b7-4a26-943e-9dca99f90a26",
-		"thumbnail": "./img/routes/radio_route.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/productbuilder/hilversum-timemachine-data/main/dev/img/routes/radio_route.jpg",
 		"title": "Radio Route",
 		"description": "Dit is route 3",
 		"origin": [5.1269, 52.2743],
@@ -49,7 +49,7 @@
 	},
 	{
 		"id": "666a998d-a07c-475e-85a3-f697151f926a",
-		"thumbnail": "./img/routes/televisie_route.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/productbuilder/hilversum-timemachine-data/main/dev/img/routes/televisie_route.jpg",
 		"title": "Televisie Route",
 		"description": "Dit is route 4",
 		"origin": [5.1769, 52.2243],
