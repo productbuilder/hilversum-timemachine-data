@@ -1,0 +1,68 @@
+[
+	{
+		"id": "75fcc1aa-da42-4c2b-90b7-6d5b20a96e87",
+		"thumbnail": "./img/routes/diamant_route.jpg",
+		"title": "Diamant Route",
+		"description": "Dit is route 1",
+		"origin": [5.1769, 52.2243],
+		"destination": [5.1770, 52.2310],
+		"waypoints": [
+			[5.1750, 52.2250],
+			[5.1740, 52.2260]
+		],
+		"infoPoints": [
+			{ "coordinates": [5.1755, 52.2270], "info": "Point of Interest 1" },
+			{ "coordinates": [5.1760, 52.2280], "info": "Point of Interest 2" }
+		]
+	},
+	{
+		"id": "394531b4-ff85-43ef-b303-032dce00fe40",
+		"thumbnail": "./img/routes/oude_haven_route.jpg",
+		"title": "Oude Haven Route",
+		"description": "Dit is route 1",
+		"origin": [5.1769, 52.2243],
+		"destination": [5.1770, 52.2310],
+		"waypoints": [
+			[5.1750, 52.2250],
+			[5.1740, 52.2260]
+		],
+		"infoPoints": [
+			{ "coordinates": [5.1755, 52.2270], "info": "Point of Interest 1" },
+			{ "coordinates": [5.1760, 52.2280], "info": "Point of Interest 2" }
+		]
+	},
+	{
+		"id": "c85d0826-a3b7-4a26-943e-9dca99f90a26",
+		"thumbnail": "./img/routes/radio_route.jpg",
+		"title": "Radio Route",
+		"description": "Dit is route 3",
+		"origin": [5.1269, 52.2743],
+		"destination": [5.1470, 52.2010],
+		"waypoints": [
+			[5.1650, 52.2050],
+			[5.1440, 52.2660]
+		],
+		"infoPoints": [
+			{ "coordinates": [5.2, 52.2130], "info": "Point of Interest 1" },
+			{ "coordinates": [5.22, 52.2580], "info": "Point of Interest 2" }
+		]
+	},
+	{
+		"id": "666a998d-a07c-475e-85a3-f697151f926a",
+		"thumbnail": "./img/routes/televisie_route.jpg",
+		"title": "Televisie Route",
+		"description": "Dit is route 4",
+		"origin": [5.1769, 52.2243],
+		"destination": [5.1770, 52.2310],
+		"waypoints": [
+			[5.1750, 52.2250],
+			[5.1740, 52.2260]
+		],
+		"infoPoints": [
+			{ "coordinates": [5.1755, 52.2270], "info": "Point of Interest 1" },
+			{ "coordinates": [5.1760, 52.2280], "info": "Point of Interest 2" }
+		]
+	}
+]
+
+

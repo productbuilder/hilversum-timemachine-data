@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.1725, 52.2292]
+            },
+            "properties": {
+				"title": "title 1",
+                "description": "Location 1",
+                "image": "https://steengoedgooi.nl/wp-content/uploads/2018/12/Fabritiusschool_361-204x150.jpg",
+                "address": "Straat 1",
+                "story": "Verhaal over locatie 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.1770, 52.2310]
+            },
+            "properties": {
+				"title": "title 2",
+                "description": "Location 2",
+                "image": "https://steengoedgooi.nl/wp-content/uploads/2018/12/Fabritiusschool_361-204x150.jpg",
+                "address": "Laan 2",
+                "story": "Verhaal over locatie 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.1700, 52.2250]
+            },
+            "properties": {
+				"title": "title 3",
+                "description": "Location 3",
+                "image": "https://steengoedgooi.nl/wp-content/uploads/2018/12/Fabritiusschool_361-204x150.jpg",
+                "address": "Laan 2",
+                "story": "Verhaal over locatie 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.1750, 52.2230]
+            },
+            "properties": {
+				"title": "title 4",
+                "description": "Location 4",
+                "image": "https://steengoedgooi.nl/wp-content/uploads/2018/12/Fabritiusschool_361-204x150.jpg",
+                "address": "Laan 2",
+                "story": "Verhaal over locatie 4"
+            }
+        }
+    ]
+}

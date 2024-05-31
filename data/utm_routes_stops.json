@@ -1,0 +1,570 @@
+[
+    {
+        "title": "Domkerk - Sint Maarten: De instorting van De Dom",
+        "intro": "<p>Weet u waarom de Domkerk en de Domtoren los van elkaar staan? Het is een belangrijk hoofdstuk uit de geschiedenis van Utrecht. Het schip tussen de Domkerk en Domtoren stort als een kaartenhuis in elkaar tijdens een storm in de vroege avond van 1 augustus 1674. Bijna 350 jaar geleden...</p>",
+        "id": "22039",
+        "location_id": "494",
+        "story_ids": "22058",
+        "route_id": "22038",
+        "show_location_info": false,
+        "audio": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/1-de%20instorting%20van%20de%20dom.mp3",
+        "location": {
+            "type": "Locatie",
+            "nid": "494",
+            "title": "Domkerk - Sint Maarten",
+            "url": "/locaties/domkerk-sint-maarten",
+            "address": "Domplein 21",
+            "city": "Utrecht",
+            "thumb": "https://data.utrechttimemachine.nl/sites/default/files/styles/thumbnail/public/2023-06/stenen_beeld_van_sint_maarten_afkomstig_van_de_graftombe_van_r.van_diepholt_in_de_dom_museum_catalogus_27_-_utrecht_-_20232098_-_rce.jpg?itok=dvEJapF5",
+            "source_link": "https://beeldbank.cultureelerfgoed.nl/rce-mediabank/detail/eb44466c-80d1-d60a-9bfd-270e44c2f54b/media/42462544-bb10-97ef-5db0-227896cda29a?mode=detail&amp;view=horizontal&amp;q=20232098&amp;rows=1&amp;page=1&amp;sort=order_s_objectnummer%20asc",
+            "source_name": "Rijksdienst voor het Cultureel Erfgoed",
+            "image": "https://data.utrechttimemachine.nl/sites/default/files/2023-06/stenen_beeld_van_sint_maarten_afkomstig_van_de_graftombe_van_r.van_diepholt_in_de_dom_museum_catalogus_27_-_utrecht_-_20232098_-_rce.jpg",
+            "license": "Attribution, Share Alike CC BY-SA",
+            "caption": "Maartensbeeld, afkomstig van de graftombe van R. van Diepholt in de Dom, Museum catalogus 27",
+            "head": "De beschermheilige van de stad Utrecht.",
+            "zipcode": "3512 JE",
+            "teaser": "Nu al ruim dertien eeuwen zijn Sint Maarten en Utrecht nauw met elkaar verbonden en dat heeft zijn sporen nagelaten. Zijn feest werd groots gevierd en hij is talloze malen afgebeeld in steen, textiel, hout, metaal, glas, papier enz. Vele sporen zijn ook nu nog te bewonderen. In gevelstenen, beelden, tapijten, F.C. Utrecht speelt in de kleuren van de Utrechtse stadsvlag, de Dom- of Sint Maartentoren en Dom- of Sint Maartenkerk, zijn relieken in de Sint Gertrudiskathedraal, de Sint Martinusparochie, gedenkpenningen, de Sint Maartenstadsvlaggen, glas-in-loodramen in gebouwen en kerken, in de Utrechtse musea en de Utrechtse klokken; wie de moeite neemt kan er veel ontdekken. BRON sintmaartenutrecht.nl",
+            "text": "",
+            "organisation_ids": "12,557",
+            "audio": "",
+            "geo": "52.090881000000, 5.122142000000",
+            "coords": {
+                "lat": 52.090881,
+                "lng": 5.122142
+            },
+            "stories": [
+                {
+                    "title": "De instorting van De Dom",
+                    "audio": "",
+                    "source_link": "<a href=\"https://www.de-inktpot.nl/dwaalgids.html\">https://www.de-inktpot.nl/dwaalgids.html</a>",
+                    "source_name": "Foto: De Dwaalgids van Utrecht",
+                    "item": "",
+                    "photo": "https://data.utrechttimemachine.nl/sites/default/files/styles/800x600/public/2024-05/1-Domkerk.jpg?itok=1WfM_fFD",
+                    "license": "All Rights Reserved",
+                    "location": "494",
+                    "media": "22057,22059",
+                    "caption": "",
+                    "has_video_icon": "Uit",
+                    "story_id": "22058",
+                    "story_link": "/story/de-instorting-van-de-dom",
+                    "story_url_alias": "de-instorting-van-de-dom"
+                },
+                {
+                    "title": "Sint-Maartensfeest en jaarmarkt",
+                    "audio": "",
+                    "source_link": "",
+                    "source_name": "",
+                    "item": "",
+                    "photo": "https://data.utrechttimemachine.nl/sites/default/files/styles/800x600/public/2023-06/x2882_-_31645.jpg?itok=HHlipgPd",
+                    "license": "",
+                    "location": "494",
+                    "media": "11519",
+                    "caption": "",
+                    "has_video_icon": "Uit",
+                    "story_id": "1062",
+                    "story_link": "/story/sint-maartensfeest-en-jaarmarkt",
+                    "story_url_alias": "sint-maartensfeest-en-jaarmarkt"
+                },
+                {
+                    "title": "Van Rossem Vertelt Sint Maarten in Utrecht",
+                    "audio": "",
+                    "source_link": "",
+                    "source_name": "",
+                    "item": "",
+                    "photo": "https://data.utrechttimemachine.nl/sites/default/files/styles/800x600/public/2023-06/4915_thumbnail_vrv_sint_maarten.jpg?itok=hIKk6Hia",
+                    "license": "",
+                    "location": "494",
+                    "media": "15494",
+                    "caption": "",
+                    "has_video_icon": "Aan",
+                    "story_id": "20494",
+                    "story_link": "/story/van-rossem-vertelt-sint-maarten-in-utrecht",
+                    "story_url_alias": "van-rossem-vertelt-sint-maarten-in-utrecht"
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "12",
+                    "title": "RTV Utrecht",
+                    "link": "https://www.rtvutrecht.nl",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2023-05/logo-rtvutrecht.svg"
+                },
+                {
+                    "id": "557",
+                    "title": "Gekomen om te Blijven",
+                    "link": "https://www.gekomenomteblijven.nl/",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2023-05/gekomen-om-te-blijven2_0.png"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Steenweg 44: Bijzondere Praktijken binnen een Apotheek",
+        "intro": "",
+        "id": "22071",
+        "location_id": "22040",
+        "story_ids": "22070",
+        "route_id": "22038",
+        "show_location_info": false,
+        "audio": "https://data.utrechttimemachine.nl/sites/default/files/2024-05/2-steenweg%2044.mp3",
+        "location": {
+            "type": "Locatie",
+            "nid": "22040",
+            "title": "Steenweg 44",
+            "url": "/locaties/steenweg-44",
+            "address": "Steenweg 44",
+            "city": "Utrecht",
+            "thumb": "https://data.utrechttimemachine.nl/sites/default/files/styles/thumbnail/public/2024-04/2-Steenweg%2044%20Utrecht001.jpg?itok=j2_YYn_u",
+            "source_link": "https://www.de-inktpot.nl/winkel/dwaalgids/21-de-dwaalgids-van-utrecht.html",
+            "source_name": "Foto: De Dwaalgids van Utrecht",
+            "image": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/2-Steenweg%2044%20Utrecht001.jpg",
+            "license": "All Rights Reserved",
+            "caption": "Apotheek aan de Steenweg 44",
+            "head": "Twee eeuwen lang een apotheek",
+            "zipcode": "",
+            "teaser": "Bijna twee eeuwen lang (1780–1964) was hier een apotheek gevestigd. Het pand stond er waarschijnlijk al in de middeleeuwen maar het is in 1891 volledig afgebrand. Tijdens de herbouw na de brand zijn de oorspronkelijke middeleeuwse zijmuren hergebruikt. De winkelinrichting van de laatste apotheker is geschonken aan het Centraal Museum.",
+            "text": "",
+            "organisation_ids": "22044,22041",
+            "audio": "",
+            "geo": "52.090791574885785, 5.1177250079065795",
+            "coords": {
+                "lat": 52.090791574885785,
+                "lng": 5.1177250079065795
+            },
+            "stories": [
+                {
+                    "title": "Bijzondere Praktijken binnen een Apotheek",
+                    "audio": "",
+                    "source_link": "<a href=\"https://www.de-inktpot.nl/dwaalgids.html\">https://www.de-inktpot.nl/dwaalgids.html</a>",
+                    "source_name": "Foto: De Dwaalgids van Utrecht",
+                    "item": "",
+                    "photo": "https://data.utrechttimemachine.nl/sites/default/files/styles/800x600/public/2024-05/2-Steenweg44_2_0.jpg?itok=f3o79hNA",
+                    "license": "All Rights Reserved",
+                    "location": "22040",
+                    "media": "22067,22068,22069",
+                    "caption": "",
+                    "has_video_icon": "Uit",
+                    "story_id": "22070",
+                    "story_link": "/story/bijzondere-praktijken-binnen-een-apotheek",
+                    "story_url_alias": "bijzondere-praktijken-binnen-een-apotheek"
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "22044",
+                    "title": "De Inktpot",
+                    "link": "https://www.de-inktpot.nl",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/inktpot.png"
+                },
+                {
+                    "id": "22041",
+                    "title": "Utrechts Monumenten Fonds",
+                    "link": "https://utrechtsmonumentenfonds.nl/",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/umf.png"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Oudegracht 319: Preken en Bakkerijen",
+        "intro": "",
+        "id": "22079",
+        "location_id": "22045",
+        "story_ids": "22078",
+        "route_id": "22038",
+        "show_location_info": false,
+        "audio": "https://data.utrechttimemachine.nl/sites/default/files/2024-05/3-grijsesteijn.mp3",
+        "location": {
+            "type": "Locatie",
+            "nid": "22045",
+            "title": "Grijsesteijn",
+            "url": "/locaties/grijsesteijn",
+            "address": "Oudegracht 319",
+            "city": "Utrecht",
+            "thumb": "https://data.utrechttimemachine.nl/sites/default/files/styles/thumbnail/public/2024-04/3-Oudegracht%20319_audiotour.jpg?itok=hKzcDibJ",
+            "source_link": "https://www.de-inktpot.nl/winkel/dwaalgids/21-de-dwaalgids-van-utrecht.html",
+            "source_name": "Foto: De Dwaalgids van Utrecht",
+            "image": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/3-Oudegracht%20319_audiotour.jpg",
+            "license": "All Rights Reserved",
+            "caption": "Oudegracht 319 - Grijsesteijn",
+            "head": "Oudegracht 319",
+            "zipcode": "",
+            "teaser": "Grijsesteijn, een historisch pand dat in 1930 een 17e-eeuwse gevel kreeg. Het pand, ooit bestaande uit één huis, transformeerde door de eeuwen heen en herbergt nu zes woningen en twee bedrijfsruimten.",
+            "text": "<p>Hier ziet u een opvallend pand met een bijzondere gevel in 17e eeuwse stijl. Deze is niet origineel maar in 1930 door de architect die er toen woonde aangebracht. Het pand bezit ook nog een werfkelder. Het staat al bijna 500 jaar bekend als Grijsesteijn. Waarschijnlijk omdat het huis vroeger een gevel van grauwe natuursteen had.</p><p>Eind 16e eeuw zijn van dit ene pand drie huizen gemaakt. Eén ervan had de ingang aan de Geertestraat. In díe tijd werd het erf van een groot huis aan de gracht steeds verder vol gebouwd. Zo bouwde men bij Grijsesteijn ook nog twee ‘cameren’, kleine huisjes van één kamer. Op het erf stonden in totaal vijf woningen die door zeven partijen werden bewoond. Later zijn er nog vier ‘cameren’ bijgekomen.</p><p>Aan het eind van de straat ziet u op de achtergrond de Geertekerk. De gereformeerden hielden hun preken destijds buiten de stadspoorten in het open veld. Ze wilden, net als de katholieken, graag kerkgebouwen. Dit leidde in 1566 tot de beeldenstorm. Op zaterdag 24 augustus 1566 trokken de beeldenstormers langs Grijsesteijn op weg naar de Geertekerk. Ze gooiden alle beelden uit de kerk in de gracht.</p><p>Zo’n twee eeuwen lang (1700-1930) hebben in dit hoekpand diverse bakkerijen gezeten.</p><p>Begin 1900 kopen de Van Baarens het huis. Als ze gaan verbouwen ontstaat er een curieus stelsel van zeven trappenhuizen, vijf woningen en een wirwar van gangen. Broer en zus Van Baaren waren bemiddelde kunstverzamelaars. Ze woonden in het huis op nummer 319 en hadden hun kunstverzameling in het huis op nummer 317. Na hun overlijden zijn de kunstwerken in bruikleen gegeven aan het Centraal Museum.</p><p>In 1978 koopt het UMF Grijsesteijn en restaureert het grondig in 2013. Met de nieuwe indeling zijn zes woningen en twee bedrijfsruimten gecreëerd. Een nieuw trappenhuis (op basis van de middeleeuwse spiltrap) maakte deze indeling mogelijk.</p><p>Alles over de geschiedenis en de bewoners van Grijsesteijn tot 1994, leest u in <a href=\"https://utrechtsmonumentenfonds.nl/steengoed/steengoed-18-oudegracht-319321-grijsesteijn/\">SteenGoed nummer 18</a>.</p><p> </p><p> </p><p>Deze locatie komt voor in de '<a href=\"https://www.de-inktpot.nl/dwaalgids.html\">De Dwaalgids van Utrecht</a>', een stripboek (en <a href=\"https://utrechttimemachine.nl/routes/de-dwaalgids-van-utrecht\">wandelroute in de Utrecht Time Machine</a>) met een avontuurlijk verhaal door de tijd en door de Utrechtse binnenstad uitgegeven. Het stripverhaal is gemaakt door zeven tekenaars van De Inktpot aan de hand van de geschiedenis van een zevental panden in de binnenstad van Utrecht, ter gelegenheid van het 75-jarig jubileum van het Utrechts Monumentenfonds . De Dwaalgids gaat over de tijd 1550-1959 en geeft een kijkje in de geschiedenis die verborgen ligt achter ‘gewone’ historische gevels. Niet de bekende monumenten, maar minder opvallende woonhuizen en winkels, panden met een lange historie als timmerwerkplaats, apotheek, schuilkerk, armenhuis, drukkerij.</p>",
+            "organisation_ids": "22044,22041",
+            "audio": "/sites/default/files/audio/3-grijsesteijn.mp3",
+            "geo": "52.085225377263946, 5.122144666481493",
+            "coords": {
+                "lat": 52.085225377263946,
+                "lng": 5.122144666481493
+            },
+            "stories": [
+                {
+                    "title": "Preken en Bakkerijen",
+                    "audio": "",
+                    "source_link": "<a href=\"https://www.de-inktpot.nl/dwaalgids.html\">https://www.de-inktpot.nl/dwaalgids.html</a>",
+                    "source_name": "Foto: De Dwaalgids van Utrecht",
+                    "item": "",
+                    "photo": "https://data.utrechttimemachine.nl/sites/default/files/styles/800x600/public/2024-05/3-Oudegracht319_0.jpg?itok=TLdM_tsu",
+                    "license": "All Rights Reserved",
+                    "location": "22045",
+                    "media": "22075,22076,22077",
+                    "caption": "",
+                    "has_video_icon": "Uit",
+                    "story_id": "22078",
+                    "story_link": "/story/preken-en-bakkerijen",
+                    "story_url_alias": "preken-en-bakkerijen"
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "22044",
+                    "title": "De Inktpot",
+                    "link": "https://www.de-inktpot.nl",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/inktpot.png"
+                },
+                {
+                    "id": "22041",
+                    "title": "Utrechts Monumenten Fonds",
+                    "link": "https://utrechtsmonumentenfonds.nl/",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/umf.png"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Oudegracht 237: Zakkendragesgilde",
+        "intro": "",
+        "id": "22084",
+        "location_id": "22046",
+        "story_ids": "22090",
+        "route_id": "22038",
+        "show_location_info": false,
+        "audio": "https://data.utrechttimemachine.nl/sites/default/files/2024-05/4-oudegracht%20237.mp3",
+        "location": {
+            "type": "Locatie",
+            "nid": "22046",
+            "title": "Oudegracht 237",
+            "url": "/locaties/oudegracht-237",
+            "address": "Oudegracht 237",
+            "city": "Utrecht",
+            "thumb": "https://data.utrechttimemachine.nl/sites/default/files/styles/thumbnail/public/2024-04/4-Oudegracht%20237_buitenkant.jpg?itok=PQZNoHKM",
+            "source_link": "https://www.de-inktpot.nl/dwaalgids.html",
+            "source_name": "Foto: De Dwaalgids van Utrecht",
+            "image": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/4-Oudegracht%20237_buitenkant.jpg",
+            "license": "All Rights Reserved",
+            "caption": "Oudegracht 237, vroeger de plek van het Zakkendragersgilde, nu Het Literatuurhuis",
+            "head": "Zakkendragersgilde",
+            "zipcode": "",
+            "teaser": "Vroeger de plek van het Zakkendragersgilde, waar dobbelen het werk verdeelde en trappen meer verdienden. Nu herbergt deze plek Het Literatuurhuis, waar podiumkunst en literatuur samenkomen in boeiende evenementen.",
+            "text": "<p>Het Zakkendragersgilde kreeg dit pand het van de stad toen de katholieken na de Reformatie uit hun kloosters waren verjaagd. Eind 16e eeuw werd in de voormalige sacristie van de kerk van het Regulierenklooster het wachtlokaal van de zakkendragers gebouwd. Een kapel van de kerk van het klooster werd de dobbelkamer. Om vriendjespolitiek te voorkomen, dobbelden de zakkendragers om het werk te verdelen.</p><p>Zakkendragers waren de officiële sjouwers van de stad. Het waren ambtenaren, aangesteld door het stadsbestuur. De goederen kwamen met schepen via de grachten de stad binnen, zij brachten ze naar de pakhuizen en de markten. Het graan werd afgemeten met de ‘korenmaat‘ en gladgestreken met de ‘strijkstok’. Zo wisten ze precies hoe zwaar het was en hoeveel ze betaald kregen. Hoe meer trappen ze op moesten, hoe meer geld ze verdienden.</p><p>Het Zakkendragersgilde was ook de brandweer van de stad. In het wachtlokaal lagen brandblusmiddelen als ladders en emmers opgeslagen.</p><p>Rechts naast het huis ziet u het zakkendragerspoortje met het zakkendragersbeeldje. Dit beeldje komt uit 1622 en herinnert aan het conflict tussen de ‘boveneinders’ en de ‘benedeneinders’. De benedeneinders hadden hun wachtlokaal in de Zakkendragerssteeg. Er was vaak ruzie over de precieze grens tussen de werkgebieden van de twee gilden. In 1622 is dat conflict opgelost.</p><p>In de nacht van 6 op 7 mei in 1973, is het beeldje gestolen. Gelukkig is het in 1989 anoniem bezorgd bij het Utrechts Monumentenfonds.</p><p>Beide lokalen zijn nog in gebruikt. Hier zit nu Het Literatuurhuis. Zij brengen literatuur op het podium; van performancepoëzie tot lezingen, van literaire filmvertoningen tot schrijversinterviews en alles daar tussenin.</p><p> </p><p>Deze locatie komt voor in de '<a href=\"https://www.de-inktpot.nl/dwaalgids.html\">De Dwaalgids van Utrecht</a>', een stripboek (en <a href=\"https://utrechttimemachine.nl/routes/de-dwaalgids-van-utrecht\">wandelroute in de Utrecht Time Machine</a>) met een avontuurlijk verhaal door de tijd en door de Utrechtse binnenstad uitgegeven. Het stripverhaal is gemaakt door zeven tekenaars van De Inktpot aan de hand van de geschiedenis van een zevental panden in de binnenstad van Utrecht, ter gelegenheid van het 75-jarig jubileum van het Utrechts Monumentenfonds . De Dwaalgids gaat over de tijd 1550-1959 en geeft een kijkje in de geschiedenis die verborgen ligt achter ‘gewone’ historische gevels. Niet de bekende monumenten, maar minder opvallende woonhuizen en winkels, panden met een lange historie als timmerwerkplaats, apotheek, schuilkerk, armenhuis, drukkerij.</p>",
+            "organisation_ids": "22044,22041",
+            "audio": "/sites/default/files/audio/4-oudegracht%20237.mp3",
+            "geo": "52.08764301563267, 5.1215228258516134",
+            "coords": {
+                "lat": 52.08764301563267,
+                "lng": 5.1215228258516134
+            },
+            "stories": [
+                {
+                    "title": "Zakkendragesgilde",
+                    "audio": "",
+                    "source_link": "<a href=\"https://www.de-inktpot.nl/dwaalgids.html\">https://www.de-inktpot.nl/dwaalgids.html</a>",
+                    "source_name": "Foto: De Dwaalgids van Utrecht",
+                    "item": "",
+                    "photo": "https://data.utrechttimemachine.nl/sites/default/files/styles/800x600/public/2024-05/4-Oudegracht237.jpg?itok=YSOEPT7U",
+                    "license": "All Rights Reserved",
+                    "location": "22046",
+                    "media": "22087,22088,22091,22089",
+                    "caption": "",
+                    "has_video_icon": "Uit",
+                    "story_id": "22090",
+                    "story_link": "/story/zakkendragesgilde",
+                    "story_url_alias": "zakkendragesgilde"
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "22044",
+                    "title": "De Inktpot",
+                    "link": "https://www.de-inktpot.nl",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/inktpot.png"
+                },
+                {
+                    "id": "22041",
+                    "title": "Utrechts Monumenten Fonds",
+                    "link": "https://utrechtsmonumentenfonds.nl/",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/umf.png"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Oudegracht 333: De Hollandsche Daalder",
+        "intro": "",
+        "id": "22086",
+        "location_id": "22047",
+        "story_ids": "22094",
+        "route_id": "22038",
+        "show_location_info": false,
+        "audio": "https://data.utrechttimemachine.nl/sites/default/files/2024-05/5-Oudegracht%20333.mp3",
+        "location": {
+            "type": "Locatie",
+            "nid": "22047",
+            "title": "Oudegracht 333",
+            "url": "/locaties/oudegracht-333",
+            "address": "Oudegracht 333",
+            "city": "Utrecht",
+            "thumb": "https://data.utrechttimemachine.nl/sites/default/files/styles/thumbnail/public/2024-04/5-Oude%20Gracht%20333%20Utrecht001.jpg?itok=G7jbEzY_",
+            "source_link": "https://www.de-inktpot.nl/dwaalgids.html",
+            "source_name": "Foto: De Dwaalgids van Utrecht",
+            "image": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/5-Oude%20Gracht%20333%20Utrecht001.jpg",
+            "license": "All Rights Reserved",
+            "caption": "Foto van het pand Oudegracht 333 dat tussen 1614 en 1792 ‘De Hollandsche Daalder’ genoemd werd.",
+            "head": "De Hollandsche Daalder",
+            "zipcode": "",
+            "teaser": "Oudegracht 333, waar houten echo&#039;s en mysterieuze geluiden fluisteren door de eeuwen heen. Van ambachtslieden tot literaire grootheden zoals Ina Boudier-Bakker, dit huis ademt verhalen van eenzaamheid, liefde en nostalgie.",
+            "text": "<p>In de geschiedenis van dit huis speelt hout een belangrijke rol. Hout zwijgt niet en dit huis kent veel eigen geluiden. Bij sterke wind leek het huis soms van plan moedeloos De Oudegracht in te willen stappen lezen we in <a href=\"https://utrechtsmonumentenfonds.nl/steengoed/steengoed-14-oudegracht-333/\">SteenGoed nummer 14</a>.<br />De oudste verwijzing naar het huis is van 1526. Eeuwenlang was het in bezit van houtbewerkers. Een doodskistenmaker, een houtkoper, een schrijnwerker, en een stadstimmerman.</p><p>Tussen 1614 en 1792 wordt het huis ‘De Hollandsche Daalder’ genoemd. Het slaan van daalders door de Staten van Holland was een opstandig gebaar. De munt toonde namelijk niet het borstbeeld van de Spaanse koning. Nee, hij toonde dat van een vorst in harnas die verdacht veel op Willem van Oranje leek. Het is niet helemaal duidelijk waarom het huis zo heette. Het kan een politiek gebaar zijn maar er heeft ook iemand gewoond die munter was.</p><p>Na 1837 wordt het huis vooral als particulier woonhuis gebruikt.</p><p>In de jaren 20 van de vorige eeuw woont hier de geliefde schrijfster Ina Boudier-Bakker. Ze woont er vanaf 1928 tot aan haar dood in 1966. Ze schrijft hier haar beroemde bestseller uit 1930, ‘De klop op de deur’. Het boek gaat over drie generaties welgestelde Amsterdammers, hun gebeurtenissen en emoties van de wieg tot het graf. Haar werk gaat vaak over eenzaamheid en gebrek aan wezenlijk contact.</p><p>Ina Boudier Bakker was getrouwd met Henry Boudier, directeur van het hoofdpostkantoor op het Neude. Ze hadden geen kinderen maar hadden wel een kinderspeelhuisje op zolder laten bouwen. Op de plek van het huidige trappenhuis, zaten voordat de Boudiers hier woonden de bedstedes. Toen Ina Boudier net in het huis woonde, hoorde ze vaak de trap naar de eerste verdieping kraken. Altijd om zeven uur ’s ochtends... “Het spook van zeven uur”, zei ze dan.</p><p>De hal op de eerste verdieping geeft toegang tot de neogotische kamer, de kamer van Henry Boudier. De inrichting van de kamer krijgt hij in 1938 van de PTT als jubileumgeschenk.</p><p>Wilt u meer weten over Oudegracht 333? In <a href=\"https://utrechtsmonumentenfonds.nl/steengoed/steengoed-14-oudegracht-333/\">SteenGoed nummer 14</a> leest u er alles over.</p><p> </p><p>Deze locatie komt voor in de '<a href=\"https://www.de-inktpot.nl/dwaalgids.html\">De Dwaalgids van Utrecht</a>', een stripboek (en <a href=\"https://utrechttimemachine.nl/routes/de-dwaalgids-van-utrecht\">wandelroute in de Utrecht Time Machine</a>) met een avontuurlijk verhaal door de tijd en door de Utrechtse binnenstad uitgegeven. Het stripverhaal is gemaakt door zeven tekenaars van De Inktpot aan de hand van de geschiedenis van een zevental panden in de binnenstad van Utrecht, ter gelegenheid van het 75-jarig jubileum van het Utrechts Monumentenfonds . De Dwaalgids gaat over de tijd 1550-1959 en geeft een kijkje in de geschiedenis die verborgen ligt achter ‘gewone’ historische gevels. Niet de bekende monumenten, maar minder opvallende woonhuizen en winkels, panden met een lange historie als timmerwerkplaats, apotheek, schuilkerk, armenhuis, drukkerij.</p>",
+            "organisation_ids": "22044,22041",
+            "audio": "/sites/default/files/audio/5-Oudegracht%20333.mp3",
+            "geo": "52.08490208668195, 5.12235012161942",
+            "coords": {
+                "lat": 52.08490208668195,
+                "lng": 5.12235012161942
+            },
+            "stories": [
+                {
+                    "title": "De Hollandsche Daalder",
+                    "audio": "",
+                    "source_link": "<a href=\"https://www.de-inktpot.nl/dwaalgids.html\">https://www.de-inktpot.nl/dwaalgids.html</a>",
+                    "source_name": "Foto: De Dwaalgids van Utrecht",
+                    "item": "",
+                    "photo": "https://data.utrechttimemachine.nl/sites/default/files/styles/800x600/public/2024-05/5-Oudegracht333.jpg?itok=hUf7cMz1",
+                    "license": "All Rights Reserved",
+                    "location": "22047",
+                    "media": "22092,22093",
+                    "caption": "",
+                    "has_video_icon": "Uit",
+                    "story_id": "22094",
+                    "story_link": "/story/de-hollandsche-daalder",
+                    "story_url_alias": "de-hollandsche-daalder"
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "22044",
+                    "title": "De Inktpot",
+                    "link": "https://www.de-inktpot.nl",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/inktpot.png"
+                },
+                {
+                    "id": "22041",
+                    "title": "Utrechts Monumenten Fonds",
+                    "link": "https://utrechtsmonumentenfonds.nl/",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/umf.png"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Lange Nieuwstraat 53: Van Geheime Bidplaats tot Schuilkerk",
+        "intro": "",
+        "id": "22056",
+        "location_id": "22048",
+        "story_ids": "22053",
+        "route_id": "22038",
+        "show_location_info": false,
+        "audio": "https://data.utrechttimemachine.nl/sites/default/files/2024-05/6-Lange%20Nieuwstraat%2053.mp3",
+        "location": {
+            "type": "Locatie",
+            "nid": "22048",
+            "title": "Lange Nieuwstraat 53",
+            "url": "/locaties/lange-nieuwstraat-53",
+            "address": "Lange Nieuwstraat 53",
+            "city": "Utrecht",
+            "thumb": "https://data.utrechttimemachine.nl/sites/default/files/styles/thumbnail/public/2024-04/6-Lange%20nieuwstraat%2053.JPG?itok=QTYYXbW2",
+            "source_link": "https://www.de-inktpot.nl/dwaalgids.html",
+            "source_name": "Foto: De Dwaalgids van Utrecht",
+            "image": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/6-Lange%20nieuwstraat%2053.JPG",
+            "license": "All Rights Reserved",
+            "caption": "Foto van Lange Nieuwstraat 53",
+            "head": "Lange Nieuwstraat 53",
+            "zipcode": "",
+            "teaser": "Ontdek de verborgen geschiedenis van een mysterieuze locatie. Van geheime bidplaats tot schuilkerk, deze plek heeft vele transformaties ondergaan door de eeuwen heen.",
+            "text": "<p>Kijk <a href=\"https://utrechttimemachine.nl/locaties/lange-nieuwstraat-53?story=van-geheime-bidplaats-tot-schuilkerk\">hier</a> om meer te weten te komen over deze locatie. </p>",
+            "organisation_ids": "22044,22041",
+            "audio": "/sites/default/files/audio/6-Lange%20Nieuwstraat%2053.mp3",
+            "geo": "52.08746220896397, 5.123417172474809",
+            "coords": {
+                "lat": 52.08746220896397,
+                "lng": 5.123417172474809
+            },
+            "stories": [
+                {
+                    "title": "Van Geheime Bidplaats tot Schuilkerk",
+                    "audio": "",
+                    "source_link": "<a href=\"https://www.de-inktpot.nl/dwaalgids.html\">https://www.de-inktpot.nl/dwaalgids.html</a>",
+                    "source_name": "Foto: De Dwaalgids van Utrecht",
+                    "item": "",
+                    "photo": "https://data.utrechttimemachine.nl/sites/default/files/styles/800x600/public/2024-05/6-LangeNieuwstraat53_0.jpg?itok=qPGheleN",
+                    "license": "All Rights Reserved",
+                    "location": "22048",
+                    "media": "22061,22052,22054,22055",
+                    "caption": "",
+                    "has_video_icon": "Uit",
+                    "story_id": "22053",
+                    "story_link": "/story/van-geheime-bidplaats-tot-schuilkerk",
+                    "story_url_alias": "van-geheime-bidplaats-tot-schuilkerk"
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "22044",
+                    "title": "De Inktpot",
+                    "link": "https://www.de-inktpot.nl",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/inktpot.png"
+                },
+                {
+                    "id": "22041",
+                    "title": "Utrechts Monumenten Fonds",
+                    "link": "https://utrechtsmonumentenfonds.nl/",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/umf.png"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Brigittenstraat 20: Van Adel tot Verzet",
+        "intro": "",
+        "id": "22066",
+        "location_id": "22060",
+        "story_ids": "22065",
+        "route_id": "22038",
+        "show_location_info": false,
+        "audio": "https://data.utrechttimemachine.nl/sites/default/files/2024-05/7-Brigittenstraat%2020_1.mp3",
+        "location": {
+            "type": "Locatie",
+            "nid": "22060",
+            "title": "Brigittenstraat 20",
+            "url": "/locaties/brigittenstraat-20",
+            "address": "Brigittenstraat 20",
+            "city": "Utrecht",
+            "thumb": "https://data.utrechttimemachine.nl/sites/default/files/styles/thumbnail/public/2024-05/7-Brigittenstraat%2020_voorkant.jpg?itok=9ijcMMff",
+            "source_link": "",
+            "source_name": "",
+            "image": "https://data.utrechttimemachine.nl/sites/default/files/2024-05/7-Brigittenstraat%2020_voorkant.jpg",
+            "license": "All Rights Reserved",
+            "caption": "",
+            "head": "Brigittenstraat 20",
+            "zipcode": "",
+            "teaser": "",
+            "text": "",
+            "organisation_ids": "22044,22041",
+            "audio": "",
+            "geo": "52.089117065447425, 5.126783393074614",
+            "coords": {
+                "lat": 52.089117065447425,
+                "lng": 5.126783393074614
+            },
+            "stories": [
+                {
+                    "title": "Van Adel tot Verzet",
+                    "audio": "/sites/default/files/2024-05/7-Brigittenstraat%2020.mp3",
+                    "source_link": "<a href=\"https://www.de-inktpot.nl/dwaalgids.html\">https://www.de-inktpot.nl/dwaalgids.html</a>",
+                    "source_name": "Foto: De Dwaalgids van Utrecht",
+                    "item": "",
+                    "photo": "https://data.utrechttimemachine.nl/sites/default/files/styles/800x600/public/2024-05/7-Brigittenstraat20.jpg?itok=qOqGdh8I",
+                    "license": "All Rights Reserved",
+                    "location": "22060",
+                    "media": "22062,22063,22064",
+                    "caption": "",
+                    "has_video_icon": "Uit",
+                    "story_id": "22065",
+                    "story_link": "/story/van-adel-tot-verzet",
+                    "story_url_alias": "van-adel-tot-verzet"
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "22044",
+                    "title": "De Inktpot",
+                    "link": "https://www.de-inktpot.nl",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/inktpot.png"
+                },
+                {
+                    "id": "22041",
+                    "title": "Utrechts Monumenten Fonds",
+                    "link": "https://utrechtsmonumentenfonds.nl/",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/umf.png"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Oude Kamp 3: Het Roode Huys",
+        "intro": "<p>Dit is de laatste stop van de route! Enthousiast geworden? </p><p>Op de website van <a href=\"https://www.de-inktpot.nl/dwaalgids.html\">de inktpot</a> vind je meer informatie over de verhalen, locaties en illustraties.</p><p>Ook kunt u hier meer informatie vinden over strips, cartoons en illustraties van Utrechtse artiesten die gaan over Utrechtse onderwerpen.</p><p>Geniet van dit laatste verhaal en bedankt voor je deelname!</p>",
+        "id": "22074",
+        "location_id": "22073",
+        "story_ids": "22082",
+        "route_id": "22038",
+        "show_location_info": false,
+        "audio": "https://data.utrechttimemachine.nl/sites/default/files/2024-05/8-Oude%20kamp%203_0.mp3",
+        "location": {
+            "type": "Locatie",
+            "nid": "22073",
+            "title": "Oude Kamp 3",
+            "url": "/locaties/oude-kamp-3",
+            "address": "Oude Kamp 3",
+            "city": "Utrecht",
+            "thumb": "",
+            "source_link": "",
+            "source_name": "",
+            "image": "",
+            "license": "",
+            "caption": "",
+            "head": "",
+            "zipcode": "",
+            "teaser": "",
+            "text": "",
+            "organisation_ids": "22044,22041",
+            "audio": "",
+            "geo": "",
+            "coords": {
+                "lat": null,
+                "lng": null
+            },
+            "stories": [
+                {
+                    "title": "Het Roode Huys",
+                    "audio": "/sites/default/files/2024-05/8-Oude%20kamp%203.mp3",
+                    "source_link": "<a href=\"https://www.de-inktpot.nl/dwaalgids.html\">https://www.de-inktpot.nl/dwaalgids.html</a>",
+                    "source_name": "Foto: De Dwaalgids van Utrecht",
+                    "item": "",
+                    "photo": "https://data.utrechttimemachine.nl/sites/default/files/styles/800x600/public/2024-05/8-OudeKamp3_1.jpg?itok=ChYl4tbA",
+                    "license": "All Rights Reserved",
+                    "location": "22073",
+                    "media": "22080,22083,22081",
+                    "caption": "",
+                    "has_video_icon": "Uit",
+                    "story_id": "22082",
+                    "story_link": "/story/het-roode-huys",
+                    "story_url_alias": "het-roode-huys"
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "22044",
+                    "title": "De Inktpot",
+                    "link": "https://www.de-inktpot.nl",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/inktpot.png"
+                },
+                {
+                    "id": "22041",
+                    "title": "Utrechts Monumenten Fonds",
+                    "link": "https://utrechtsmonumentenfonds.nl/",
+                    "logo": "https://data.utrechttimemachine.nl/sites/default/files/2024-04/umf.png"
+                }
+            ]
+        }
+    }
+]
