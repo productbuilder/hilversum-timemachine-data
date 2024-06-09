@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [5.1725, 52.2292],
+                    [5.1750, 52.2300],
+                    [5.1770, 52.2310]
+                ]
+            },
+            "properties": {
+                "title": "Route 1",
+                "description": "Route from Location 1 to Location 2"
+            }
+        }
+    ]
+}
