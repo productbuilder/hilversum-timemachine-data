@@ -1,0 +1,63 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "FeatureCollection",
+			"features": [
+				{
+					"type": "Feature",
+					"geometry": {
+						"type": "Point",
+						"coordinates": [5.1725, 52.2292]
+					},
+					"properties": {
+						"title": "title 1",
+						"description": "Location 1",
+						"image": "https://steengoedgooi.nl/wp-content/uploads/2018/12/Fabritiusschool_361-204x150.jpg",
+						"address": "Straat 1",
+						"story": "Verhaal over locatie 1"
+					}
+				},
+				{
+					"type": "Feature",
+					"geometry": {
+					  "type": "LineString",
+					  "coordinates": [
+						[5.1769, 52.2243],
+						[5.175, 52.225],
+						[5.174, 52.226],
+						[5.177, 52.231]
+					  ]
+					},
+					"properties": {
+					  "id": "75fcc1aa-da42-4c2b-90b7-6d5b20a96e87",
+					  "title": "Test Route",
+					  "description": "This is a test route",
+					  "thumbnail": "https://example.com/route.jpg"
+					}
+				}
+			]
+		},
+		{
+			"type": "FeatureCollection",
+			"features": [
+				{
+					"type": "Feature",
+					"geometry": {
+						"type": "Point",
+						"coordinates": [5.1770, 52.2310]
+					},
+					"properties": {
+						"title": "title 2",
+						"description": "Location 2",
+						"image": "https://steengoedgooi.nl/wp-content/uploads/2018/12/Fabritiusschool_361-204x150.jpg",
+						"address": "Laan 2",
+						"story": "Verhaal over locatie 2"
+					}
+				}
+			]
+		}
+	]
+}
+
+

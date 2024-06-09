@@ -19,6 +19,8 @@ Each content directory is linked to a URL:
 https://docs.mapbox.com/help/glossary/geojson/
 https://geojson.org/
 
+https://geojson.io
+
 
 GeoJSON supports the following geometry types: 
 - Point

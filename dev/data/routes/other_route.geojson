@@ -6,16 +6,16 @@
 		"geometry": {
 		  "type": "LineString",
 		  "coordinates": [
-			[5.1769, 52.2243],
-			[5.175, 52.225],
-			[5.174, 52.226],
-			[5.177, 52.231]
+			[5.176, 52.224],
+			[5.1755, 52.2255],
+			[5.175, 52.226],
+			[5.178, 52.23]
 		  ]
 		},
 		"properties": {
-		  "id": "75fcc1aa-da42-4c2b-90b7-6d5b20a96e87",
-		  "title": "Test Route",
-		  "description": "This is a test route",
+		  "id": "95dcc2bb-eb52-4e3b-80a7-7e5c20a96e88",
+		  "title": "Other Route",
+		  "description": "Dit is route 2",
 		  "thumbnail": "https://example.com/route.jpg"
 		}
 	  },
@@ -23,20 +23,20 @@
 		"type": "Feature",
 		"geometry": {
 		  "type": "Point",
-		  "coordinates": [5.1755, 52.227]
+		  "coordinates": [5.1765, 52.2275]
 		},
 		"properties": {
-		  "info": "Point of Interest 1"
+		  "info": "Point of Interest 3"
 		}
 	  },
 	  {
 		"type": "Feature",
 		"geometry": {
 		  "type": "Point",
-		  "coordinates": [5.176, 52.228]
+		  "coordinates": [5.177, 52.2285]
 		},
 		"properties": {
-		  "info": "Point of Interest 2"
+		  "info": "Point of Interest 4"
 		}
 	  }
 	]
