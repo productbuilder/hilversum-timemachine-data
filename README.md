@@ -14,3 +14,23 @@ Each content directory is linked to a URL:
 - hilversumtimemachine.nl (without the subdomain live)
 
 
+# GeoJSON
+
+https://docs.mapbox.com/help/glossary/geojson/
+https://geojson.org/
+
+
+GeoJSON supports the following geometry types: 
+- Point
+- LineString
+- Polygon
+- MultiPoint
+- MultiLineString
+- MultiPolygon
+
+
+# Adding points
+
+# Adding Routes
+
+# Adding 3D Buildings
