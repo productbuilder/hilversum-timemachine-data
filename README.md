@@ -14,12 +14,21 @@ Each content directory is linked to a URL:
 - hilversumtimemachine.nl (without the subdomain live)
 
 
+
+# GeoJSON.io
+https://geojson.io
+
+# Mapbox Studio 
+
+studio.mapbox.com
+
+
+
 # GeoJSON
 
 https://docs.mapbox.com/help/glossary/geojson/
 https://geojson.org/
 
-https://geojson.io
 
 
 GeoJSON supports the following geometry types: 
